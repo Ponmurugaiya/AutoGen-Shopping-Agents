@@ -36,8 +36,8 @@ AutoGen_Project/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/AutoGen_Project.git
-cd AutoGen_Project
+git clone https://github.com/Ponmurugaiya/AutoGen-Shopping-Agents.git
+cd AutoGen-Shopping-Agents
 ```
 
 ### 2. Create Virtual Environment
@@ -141,9 +141,3 @@ Install all requirements with:
 ```bash
 pip install -r requirements.txt
 ```
-
----
-
-## License
-
-MIT License © 2025
