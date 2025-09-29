@@ -1,0 +1,14 @@
+{
+    "Amazon": [
+        {"name": "Running shoes A1", "price": 50},
+        {"name": "Running shoes A2", "price": 60}
+    ],
+    "Flipkart": [
+        {"name": "Running shoes F1", "price": 55},
+        {"name": "Running shoes F2", "price": 65}
+    ],
+    "eBay": [
+        {"name": "Running shoes E1", "price": 52},
+        {"name": "Running shoes E2", "price": 62}
+    ]
+}

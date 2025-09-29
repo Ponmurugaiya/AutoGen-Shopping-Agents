@@ -1,0 +1,15 @@
+{
+  "last_query": "Only Amazon results",
+  "last_intent": "filter_store",
+  "last_entities": {
+    "store_name": "Amazon"
+  },
+  "history": [
+    "Running shoes",
+    "Show cheaper than $55",
+    "Only Amazon results",
+    "Running shoes",
+    "Show cheaper than $55",
+    "Only Amazon results"
+  ]
+}
